@@ -1,4 +1,4 @@
-# Projeto de Objetivos
+# Projeto Objetivos de vida
 
 Projeto feito com HTML, CSS e JavaScript.
 
